@@ -1,0 +1,5 @@
+spring.application.name=quizService
+server.port=8081
+spring.data.mongodb.uri=mongodb://localhost:27017/quizDB
+spring.data.mongodb.database=quizDB
+spring.main.allow-bean-definition-overriding=true
